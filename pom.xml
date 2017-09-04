@@ -67,7 +67,7 @@
 				</configuration>
 				<executions>
 					<execution>
-						<id>make-assembly</id> <!-- this is used for inheritance merges -->
+						<id>make-assembly</id> <!-- this is used for inheritance mergess -->
 						<phase>package</phase> <!-- bind to the packaging phase -->
 						<goals>
 							<goal>single</goal>
